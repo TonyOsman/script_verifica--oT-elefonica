@@ -1,9 +1,9 @@
 body{
     background-color: rgb(255, 244, 184);
-    font-size: 20px;
+    color: BLACK;
+    font-size: 30px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    background-image:url(img/LOGO_MASTERMIX_DEITADO.png);
 }
 form{
     margin-top: 100px;
