@@ -46,3 +46,6 @@ document.getElementById("validar").onclick = function() {
       }
     }
   }
+  function ir(){
+    document.location(index.html);
+  }
